@@ -1,0 +1,25 @@
+{
+  "name": "refactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codelabone.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatienceKunihira/refactory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatienceKunihira/refactory/issues"
+  },
+  "homepage": "https://github.com/PatienceKunihira/refactory#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.4.0",
+    "express": "^4.17.1",
+    "mocha": "^8.0.1"
+  }
+}
